@@ -1,0 +1,13 @@
+{
+    "name": "cyberspace",
+    "version": "0.1.0",
+    "files": [
+      "cyberspace_bg.wasm",
+      "cyberspace.js",
+      "cyberspace_bg.wasm.d.ts",
+      "cyberspace.d.ts"
+    ],
+    "module": "cyberspace.js",
+    "types": "cyberspace.d.ts",
+    "sideEffects": false
+  }

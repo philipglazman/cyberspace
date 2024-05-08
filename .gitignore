@@ -1,0 +1,4 @@
+/target
+contracts/world/build
+web/node_modules
+web/build
